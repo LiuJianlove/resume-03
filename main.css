@@ -80,8 +80,8 @@ h1,h2,h3,h4,h5,h6{ font-weight: normal; }
 }
 
 .topNavBar .logo { font-size: 24px; font-family: 'Arial Black'; padding-top: 3px; padding-bottom: 4px; }
-.topNavBar .logo .rs { margin-right: 4px; color: #e6686a; }
-.topNavBar .logo .card { color: #9a9da2; }
+.topNavBar .logo .rs { margin-right: 4px; color: #4588f1; }
+.topNavBar .logo .card { color: #e8453c; }
 .banner { height: 515px; background-image: url(./img/rs-cover.jpg); background-position: center center; background-size: cover; }
 .banner .mask { height: 515px; background-color: rgba(0, 0, 0, 0.8); }
 
